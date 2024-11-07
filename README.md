@@ -39,3 +39,7 @@ e incluso llevar a cabo de manera mas sencillas tareas, ademas de poder llevar a
 
 
 ## Sección 5 Coevaluación
+Mi compañero juan se dedico a realizar la mayoria de las conexiones, generalmente siempre sabia hacer las cosas de manera independiente, 
+existian momentos que en algunas cosas mas sencillas no recordaba como hacer las conexiones de manera correcta y recurria a mi para resolver sus dudas
+a pesar de eso su desempeño fue satisfactorio, pero debe mejorar en el aspecto de poder identificar por si solo que pines van a que lugar asi como su funcionalidad,
+ en el codigo se desempeño bastante bien pero de manera repetitiva a veces en cosas sencillas se atoraba, locual deja claro que debe repasar un poco las funciones basicas del codigo.
