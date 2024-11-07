@@ -2,14 +2,15 @@
 En este repositorio se presentaran las actividades requeridas y realizadas en la unidad 2
 
 ## Sección 1 Ejercicio Integral
-Enlace a la carpeta:
+Enlace a la carpeta: https://github.com/Tanquex/IOT-Instrumento-de-Evaluaci-n-U2/tree/main/Ejercicio_Practico_Integral
 Descripción: Para el ejercicio practico nos toco sobre luz ambiental, en una pantalla oled se mostrara un tanque y dependiendo de de la cantidad de luz recibida,
 el tanque incrementara su capacidad o esta se disminuira, ademas tambien dependiendo la cantidad de luz se cotrolara un rgb y dependiendo se cambiara los colores entre rojo azul y verde,
 por ultimo si la cantidad de luz es muy baja se añadio un buzzer el cual reproducira un sonido.
 
 
 ## Sección 2 Ejercicios realizados en clase
-Enlace a la carpeta:
+Enlace a la carpeta: https://github.com/Tanquex/IOT-Instrumento-de-Evaluaci-n-U2/tree/main/Ejercicios_en_Clase
+                    https://drive.google.com/drive/folders/1vOJgiJQTLX23H4O69e_LmvIoD9nPe7W-?usp=sharing
 
 * Buzzer: este depensdienso la melodia seleccionada reproduce la de mario o la de star wars.
 * Led y boton: cuando el boton se pulsa el led se enciende y si se vuelve a pulsar se apaga.
@@ -24,14 +25,14 @@ Enlace a la carpeta:
 
 
 ## Sección 3 Avance del proyecto navideño
-Enlace a la capeta:
+Enlace a la capeta: https://github.com/Tanquex/IOT-Instrumento-de-Evaluaci-n-U2/tree/main/Avance_Proyecto_Navideno
 Descipción: Nuestro proyecto navideño estara basado en el personaje "Dr.Filkenstein" el cual incluira 2 leds rojos en los ojos que se encenderan cuando nuestro 
 sensor de temperatura marque una temperatura mayo a 30 grados, ademas de esto incluimos un sensor de movimineto el cual sera el encargado de diferentes funciones
 comenzando imprimiendo en consola cuando se detecte movimiento, ademas tambien se encenderan 2 leds blancos que iran en la silla de ruedas simulando focos, ademas cuando se tetecta movimiento 
 estaran conectados servomotores que iran en ambos brazos y cuello o cual movera la cabeza.
 
 ## Sección 4 Curso de Python en NetaCad
-Enlace a la capeta:
+Enlace a la capeta: https://github.com/Tanquex/IOT-Instrumento-de-Evaluaci-n-U2/tree/main/Curso_Python_NetaCad
 Como aplicaria  los conceptos de Python vistos en el curso en tus proyectos:
 Los conocimientos que vi durante el curso me ayudan a crear nuevas funciones, lo cual proporciona mayor capacidad de crear cosas mas creativas 
 e incluso llevar a cabo de manera mas sencillas tareas, ademas de poder llevar a codigo una idea que solo tengo en mi mente.
